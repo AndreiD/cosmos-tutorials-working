@@ -1,0 +1,14 @@
+- name: alice
+  type: local
+  address: cosmos1n9d9gvw7lfvc5j5gs9r9ykrr4kmq5v5gzcxm3p
+  pubkey: cosmospub1addwnpepqgeq2a36n68ua9feft0fqjvc2ufrpen9a97re6h4ct6f24uuazxxv070s49
+  mnemonic: ""
+  threshold: 0
+  pubkeys: []
+
+
+**Important** write this mnemonic phrase in a safe place.
+It is the only way to recover your account if you ever forget your password.
+
+chair merry gaze inch pet orphan patrol paddle virus current tunnel steak ginger theme first behave wise onion boil foil fish rather brick kite
+

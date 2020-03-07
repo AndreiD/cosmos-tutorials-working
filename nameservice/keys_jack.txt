@@ -1,0 +1,16 @@
+nscli keys add jack                
+
+- name: jack
+  type: local
+  address: cosmos15yr4lzfrl0sd4qayj0cdrsyzmv7hw3nnps9690
+  pubkey: cosmospub1addwnpepqtewvme96r69aegrj4r4q4m2a70sxhj2dkjdlnwemn9pvygndhu4cu7wve5
+  mnemonic: ""
+  threshold: 0
+  pubkeys: []
+
+
+**Important** write this mnemonic phrase in a safe place.
+It is the only way to recover your account if you ever forget your password.
+
+silver elder match embark gym sight lumber patch dynamic media cage mom dawn comic flame verb leaf cloud mad actual truck pride hint fantasy
+
